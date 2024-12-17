@@ -1,0 +1,25 @@
+body{
+    background-image: url("img/fundo-floresta.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+div{
+    font-family: Tahoma;
+    width: 600px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    padding: 5px 15px;
+}
+img{
+    width: 600px;
+}
+h2{
+ color: rgba(94, 99, 99, 0.879);
+}
+p{
+    line-height: 28px;
+    font-size: 15px;
+    
+}
